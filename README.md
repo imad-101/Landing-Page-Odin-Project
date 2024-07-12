@@ -15,7 +15,7 @@ I have tried my level best to make it look exactly alike at the same time keepin
 
 Take a look at the live preview of the website:
 
-
+https://imad-101.github.io/landing-page-odin-project/
 
 THANK YOU!
 
