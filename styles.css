@@ -114,6 +114,8 @@ button{
 }
 .img-1{
     filter: drop-shadow(1px 1px 20px rgb(195, 211, 255) ) ;
-    border: 3px solid white;
-    border-radius: 2rem;
+    border: 2px solid white;
+    border-radius: 1rem;
+    width: 350px;
+    height: auto;
 }
